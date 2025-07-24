@@ -1,6 +1,6 @@
 # Creative GitHub README - Nagender Singh Shekhawat
 
-```markdown
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:FFDD00,100:833AB4&height=300&section=header&text=नमस्ते!%20I'm%20Nagender&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20|%20Team%20Leader%20|%20Problem%20Solver&descAlignY=55&descSize=18"/>
 </div>
